@@ -1,0 +1,36 @@
+.array-container {
+    position: absolute;
+    left: 50px;
+    margin-bottom: 100px;
+    /* top: 100px; */
+  }
+  
+  .array-bar {
+    width: 2px;
+    display: inline-block;
+    margin: 0 1px;
+  }
+
+  .top-btn {
+      margin-top: 5px;
+      margin-right: 10px;
+      margin-bottom: 0px;
+  }
+
+  body {
+      margin: 1.0%;
+  }
+
+  .array-contents {
+      margin-top: 5px;
+      margin-bottom: 20px;
+  }
+
+  .bottom-btn {
+      margin-left: 20px;
+  }
+
+  .bottom-form {
+      margin-left: auto;
+      margin-right: auto;;
+  }
